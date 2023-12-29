@@ -5,18 +5,9 @@
       <div class="table-col">
         <ConstructionsRow class="bg-indigo-200" :isHeader="true" />
         <ConstructionsRow
-          v-for="(construction, index) in constructionsOrganized.newSorted"
+          v-for="construction in constructionsOrganized.newSorted"
           :key="construction.Id"
-          :Item="construction.Item"
-          :Category="construction.Category"
-          :DescriptionA="construction.DescriptionA"
-          :DescriptionB="construction.DescriptionB"
-          :Due="construction.Due"
-          :Budget="construction.Budget"
-          :StatusA="construction.StatusA"
-          :StatusB="construction.StatusB"
-          :Contribution="construction.Contribution"
-          :index="index"
+          :construction="construction"
         />
       </div>
     </div>

@@ -15,33 +15,22 @@
     "
   >
     <a
-      :href="`/constructions/${Item}`"
+      :href="`/constructions/${construction.Item}`"
       class="link item1 hover:bg-indigo-100"
-      >{{ Item }}</a
+      >{{ construction.Item }}</a
     >
-    <p class="header item2" :style="{ color: StatusA }">{{ StatusB }}</p>
-    <p class="header item3">{{ Due }}</p>
-    <p class="header item4">{{ Budget }}</p>
+    <p class="header item2" :style="{ color: construction.StatusA }">
+      {{ construction.StatusB }}
+    </p>
+    <p class="header item3">{{ construction.Due }}</p>
+    <p class="header item4">{{ construction.Budget }}</p>
   </div>
 </template>
 
-<script setup lang="ts">
-interface RowProps {
-  Item: string;
-  Category: string;
-  key: string;
-  DescriptionA?: string;
-  DescriptionB?: string;
-  Due?: string;
-  Budget?: string;
-  StatusA?: string;
-  StatusB?: string;
-  Contribution?: string;
-  index: number;
-  isHeader?: boolean;
-}
-
-const props = defineProps<RowProps>();
+<script setup>
+const props = defineProps({
+  construction: Object,
+});
 </script>
 
 <style scoped>

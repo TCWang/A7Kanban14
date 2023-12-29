@@ -5,15 +5,9 @@
       <div class="table-col">
         <ExpectationsRow :isHeader="true" />
         <ExpectationsRow
-          v-for="(expectation, index) in expectationsOrganized.newSorted"
+          v-for="expectation in expectationsOrganized.newSorted"
           :key="expectation.id"
-          :id="expectation.id"
-          :item="expectation.item"
-          :category="expectation.category"
-          :description="expectation.description"
-          :contribution="expectation.contribution"
-          :vote="expectation.vote"
-          :index="index"
+          :expectation="expectation"
         />
       </div>
     </div>

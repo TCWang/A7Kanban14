@@ -14,29 +14,22 @@
         : { background: 'rgba(255,255,255,0.1)' }
     "
   >
-    <p class="header item2">{{ category }}</p>
-    <p class="header item4">{{ id }}</p>
-    <a :href="`/expectations/${item}`" class="link item1 hover:bg-indigo-100">
-      {{ item }}</a
+    <p class="header item2">{{ expectation.category }}</p>
+    <p class="header item4">{{ expectation.id }}</p>
+    <a
+      :href="`/expectations/${expectation.item}`"
+      class="link item1 hover:bg-indigo-100"
     >
-    <p class="header item3">{{ vote }}</p>
+      {{ expectation.item }}</a
+    >
+    <p class="header item3">{{ expectation.vote }}</p>
   </div>
 </template>
 
-<script setup lang="ts">
-interface RowProps {
-  item: string;
-  category: string;
-  key: string;
-  id: string;
-  description: string;
-  contribution?: string;
-  vote?: string;
-  index: number;
-  isHeader?: boolean;
-}
-
-const props = defineProps<RowProps>();
+<script setup>
+const props = defineProps({
+  expectation: Object,
+});
 </script>
 
 <style scoped>
