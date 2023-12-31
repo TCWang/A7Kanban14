@@ -27,6 +27,7 @@
 <script setup>
 const props = defineProps({
   announcement: Object,
+  isHeader: Boolean,
 });
 </script>
 

@@ -29,6 +29,7 @@
 <script setup>
 const props = defineProps({
   expectation: Object,
+  isHeader: Boolean,
 });
 </script>
 

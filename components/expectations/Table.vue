@@ -8,6 +8,7 @@
           v-for="expectation in expectationsOrganized.newSorted"
           :key="expectation.id"
           :expectation="expectation"
+          :isHeader="isHeader"
         />
       </div>
     </div>

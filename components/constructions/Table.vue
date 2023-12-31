@@ -7,6 +7,7 @@
         <ConstructionsRow
           v-for="construction in constructionsOrganized.newSorted"
           :key="construction.Id"
+          :isHeader="isHeader"
           :construction="construction"
         />
       </div>

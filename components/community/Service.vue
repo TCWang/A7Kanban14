@@ -8,6 +8,7 @@
           v-for="announcement in announcementsOrganized.newSorted"
           :key="announcement.No"
           :announcement="announcement"
+          :isHeader="isHeader"
         />
       </div>
     </div>

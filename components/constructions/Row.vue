@@ -30,6 +30,7 @@
 <script setup>
 const props = defineProps({
   construction: Object,
+  isHeader: Boolean,
 });
 </script>
 
