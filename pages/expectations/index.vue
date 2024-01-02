@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-  title: "A7-居民期望",
+  title: "地方行政-居民期望",
   meta: [{ name: "description", content: "A7重劃區 居民期望許願池" }],
 });
 </script>

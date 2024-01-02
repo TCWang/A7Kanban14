@@ -23,7 +23,7 @@ const name = route.params.name;
 const municipal = municipals.find((r) => r.title === name);
 
 useHead({
-  title: "公共服務 - " + name,
+  title: "地方行政-公共服務: " + name,
   meta: [{ name: "description", content: "A7地方行政-公共服務匯總" }],
 });
 </script>

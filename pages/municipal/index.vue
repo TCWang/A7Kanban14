@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-  title: "A7-公共服務",
+  title: "地方行政-公共服務",
   meta: [
     { name: "description", content: "A7重劃區 政府單位及公共事業資訊交流平台" },
   ],

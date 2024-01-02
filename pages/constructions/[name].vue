@@ -57,7 +57,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "區域建設 - " + name,
+  title: "地方行政-區域建設: " + name,
 });
 
 const construction = constructions.find((r) => r.Item === name);

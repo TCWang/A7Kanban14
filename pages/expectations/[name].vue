@@ -35,7 +35,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "居民期望 - " + name,
+  title: "地方行政-居民期望: " + name,
 });
 
 const expectation = expectations.find((r) => r.item === name);

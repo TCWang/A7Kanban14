@@ -39,7 +39,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "議員服務 - " + name,
+  title: "地方行政-議員服務: " + name,
   meta: [{ name: "description", content: "A7地方行政-議員地區服務匯總" }],
 });
 </script>

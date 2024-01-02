@@ -16,7 +16,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "里長公告欄 - " + name,
+  title: "地方行政-里長公告欄: " + name,
   meta: [{ name: "description", content: "A7地方行政-里長公佈欄" }],
 });
 </script>

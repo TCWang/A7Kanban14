@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-  title: "A7-里長交流",
+  title: "地方行政-里長交流",
   meta: [{ name: "description", content: "A7重劃區 里長交流平台" }],
 });
 </script>

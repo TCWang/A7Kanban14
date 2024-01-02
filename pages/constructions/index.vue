@@ -30,7 +30,7 @@
 
 <script setup>
 useHead({
-  title: "A7-地區建設",
+  title: "地方行政-地區建設",
   meta: [{ name: "description", content: "A7重劃區 地區重大建設匯總看板" }],
 });
 </script>
