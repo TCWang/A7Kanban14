@@ -28,6 +28,7 @@
 const props = defineProps({
   service: Object,
   isHeader: Boolean,
+  index: Number,
 });
 </script>
 

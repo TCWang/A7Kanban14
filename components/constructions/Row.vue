@@ -31,6 +31,7 @@
 const props = defineProps({
   construction: Object,
   isHeader: Boolean,
+  index: Number,
 });
 </script>
 

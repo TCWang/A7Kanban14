@@ -8,7 +8,6 @@
           v-for="service in servicesOrganized.newSorted"
           :key="service.No"
           :service="service"
-          :isHeader="isHeader"
         />
       </div>
     </div>

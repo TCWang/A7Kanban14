@@ -30,6 +30,7 @@
 const props = defineProps({
   expectation: Object,
   isHeader: Boolean,
+  index: Number,
 });
 </script>
 
