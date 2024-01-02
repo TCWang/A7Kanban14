@@ -1,0 +1,1 @@
+import{_ as e,c,o,a as s}from"./entry.rpxjXXjZ.js";const t={},n={class:"container"},_=s("div",null,"地方行政",-1),a=[_];function r(d,i){return o(),c("div",n,a)}const f=e(t,[["render",r]]);export{f as default};

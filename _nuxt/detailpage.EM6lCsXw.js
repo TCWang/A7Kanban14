@@ -1,0 +1,1 @@
+import{_ as t,c as o,$ as s,o as c}from"./entry.rpxjXXjZ.js";const a={},n={class:"container"};function r(e,_){return c(),o("div",n,[s(e.$slots,"default")])}const d=t(a,[["render",r]]);export{d as default};
