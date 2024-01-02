@@ -28,7 +28,7 @@
 const props = defineProps({
   announcement: Object,
   isHeader: Boolean,
-  index: number,
+  index: Number,
 });
 </script>
 
