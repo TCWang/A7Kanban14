@@ -1,5 +1,38 @@
 ﻿[
         {
+            "Title": "社區公園開放",
+            "No": "N054",
+            "Category": "陳雅倫",
+            "Category1": "A.健全都市發展",
+            "Category2": "A.1加速宜居城市建設",
+            "Subtitle": "促成A7郵園公園1/5開放",
+            "Description": "<div class=\"bg-zinc-100 p-2 mx-2 rounded-2xl\">\r\n    <!-- Flex Container -->\r\n    <div class=\"flex flex-col md:flex-row rounded-l-xl\">\r\n      <!-- Image -->\r\n      <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-054.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n      <!-- Content -->\r\n      <div class=\"p-2 md:p-4\">\r\n        <h3 class=\"\">\r\n         A7郵園公園1/5開放！\r\n        </h3>\r\n\r\n        <p class=\"\"max-w-sm my-4  leading-5 tracking-wide \"\">\r\n這座產權屬於郵政的公園，因為沒有先例、沒有備查機關，雅倫幾經周折後終於確認備查機關。\r\n結果遊具已放太久不符合檢驗標準，在雅倫與議員同事、郵政、鄭運鵬委員、特公盟、黃錦芳里長一直不斷努力之下～終於完成遊具更新、重送檢驗、確定備查✅\r\n孩子終於有個公園可以玩了～！    </p>\r\n      </div>\r\n    </div>\r\n  </div>",
+            "Date": "12/27/23",
+            "Link": "https://www.facebook.com/groups/a7xinlinkou/permalink/645444307560821/?mibextid=uJjRxr"
+        },
+        {
+            "Title": "學區步道改善",
+            "No": "N053",
+            "Category": "陳雅倫",
+            "Category1": "A.健全都市發展",
+            "Category2": "A.4強化區域交通規劃",
+            "Subtitle": "文青非營利幼兒園的家長接送區改善",
+            "Description": "<div class=\"bg-zinc-100 p-2 mx-2 rounded-2xl\">\r\n    <!-- Flex Container -->\r\n    <div class=\"flex flex-col md:flex-row rounded-l-xl\">\r\n      <!-- Image -->\r\n      <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-053.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n      <!-- Content -->\r\n      <div class=\"p-2 md:p-4\">\r\n        <h3 class=\"\">\r\n         改善文青非營利幼兒園的家長接送區\r\n        </h3>\r\n\r\n        <p class=\"\"max-w-sm my-4  leading-5 tracking-wide \"\">\r\n雅倫會勘的大湖、文青非營利幼兒園家長接送區陸續完工✅家長們可以不用冒著危險接送小小朋友了～    </p>\r\n      </div>\r\n    </div>\r\n  </div>",
+            "Date": "12/27/23",
+            "Link": "https://www.facebook.com/groups/a7xinlinkou/permalink/645264354245483/?mibextid=uJjRxr"
+        },
+        {
+            "Title": "人行道改善",
+            "No": "N052",
+            "Category": "陳雅倫",
+            "Category1": "A.健全都市發展",
+            "Category2": "A.4強化區域交通規劃",
+            "Subtitle": "依據陳情改善人行道",
+            "Description": "<div class=\"bg-zinc-100 p-2 mx-2 rounded-2xl\">\r\n    <!-- Flex Container -->\r\n    <div class=\"flex flex-col md:flex-row rounded-l-xl\">\r\n      <!-- Image -->\r\n      <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-052.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n      <!-- Content -->\r\n      <div class=\"p-2 md:p-4\">\r\n        <h3 class=\"\">\r\n         傾聽民意！改善人行道\r\n        </h3>\r\n\r\n        <p class=\"\"max-w-sm my-4  leading-5 tracking-wide \"\">\r\n舊路的長輩跟我陳情，斑馬線連接的地方沒有斜坡道，以致輪椅無法上去，我馬上協助協調華亞科施作，一個禮拜多就馬上完工！效率非常好    </p>\r\n      </div>\r\n    </div>\r\n  </div>",
+            "Date": "12/8/23",
+            "Link": "https://www.facebook.com/groups/a7xinlinkou/permalink/635656131872972/?mibextid=uJjRxr"
+        },
+        {
             "Title": "停車格畫設 ",
             "No": "N051",
             "Category": "陳雅倫",
