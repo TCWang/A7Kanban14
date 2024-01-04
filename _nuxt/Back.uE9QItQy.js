@@ -1,4 +1,22 @@
-import{_ as t}from"./nuxt-link.5Ya4wPvz.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.KDnO4bwX.js";const u=[{Title:"社區公園開放",No:"N054",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"促成A7郵園公園1/5開放",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+import{_ as t}from"./nuxt-link.kdQwi_BY.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.H7DpJ016.js";const u=[{Title:"機捷出土段噪音改善",No:"N055",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"成功爭取A7-A8站 #機捷出土段噪音改善",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-055D.png" alt=""\r
+        class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" /><br>\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h3 class="">\r
+         機捷出土段噪音改善\r
+        </h3>\r
+\r
+        <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
+雅倫成功爭取💪 【A7-A8站 #機捷出土段噪音改善】\r
+目前 #軌道潤滑塗佈器 已裝設完成！預計可以減少低頻共振回音，接下來兩週會來測試，今日雅倫也特地安排會勘來了解機捷公司的裝設狀況。\r
+未來我會繼續爭取隔音牆，並且持續監督機捷車廂購買進度！    </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"1/3/24",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/648878023884116/?mibextid=uJjRxr"},{Title:"社區公園開放",No:"N054",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"促成A7郵園公園1/5開放",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
       <!-- Image -->\r
