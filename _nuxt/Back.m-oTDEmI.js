@@ -1,8 +1,8 @@
-import{_ as t}from"./nuxt-link.kdQwi_BY.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.H7DpJ016.js";const u=[{Title:"機捷出土段噪音改善",No:"N055",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"成功爭取A7-A8站 #機捷出土段噪音改善",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+import{_ as t}from"./nuxt-link.2N8-iTAJ.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.NOPEIZip.js";const u=[{Title:"機捷出土段噪音改善",No:"N055",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"成功爭取A7-A8站 #機捷出土段噪音改善",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
       <!-- Image -->\r
-      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-055D.png" alt=""\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-055I.png" alt=""\r
         class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" /><br>\r
       <!-- Content -->\r
       <div class="p-2 md:p-4">\r
