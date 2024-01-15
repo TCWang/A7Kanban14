@@ -40,6 +40,17 @@
             "type": "公共服務"
         },
         {
+            "id": "M045",
+            "title": "桃園市教育局",
+            "address": "桃園市桃園區縣府路1號14, 15樓",
+            "telephone": "03-332-2101",
+            "hours": "08:00 - 12:00, 13:00 - 17:00",
+            "figure": "MUN-045.jpeg",
+            "link": "https://www.tyc.edu.tw/Default.aspx",
+            "type": "公共服務",
+            "description": "<a href=\"https://www.tyc.edu.tw/News.aspx?n=5208&sms=11286&_CSN=108\">桃園學區資訊</a><br>\r\nA7 重劃區 113學年度國民中小學學區\r\n<table class=\"table table-responsive table-bordered table-sm\" >\r\n<thead class=\"align-middle\">\r\n  <tr>\r\n   <th>學校名稱</th><th>學區</th><th>聯絡電話</th>\r\n  </tr>\r\n</thead>\r\n<tbody>\r\n  <tr>\r\n    <td>樂善國小 </td>\r\n    <td>樂善里（6-7、10-29），◎樂善里（1、8、9、30），◎長庚里（27-30）</td>\r\n    <td>328-1002</td>\r\n  </tr>\r\n  <tr>\r\n    <td>長庚國小 </td>\r\n    <td>長庚里（1-26），◎長庚里（27-30）</td>\r\n    <td>318-2643</td>\r\n  </tr>\r\n  <tr>\r\n    <td>文青國小</td>\r\n    <td>樂善里（2、3、4、5），◎樂善里（1、8、9、30），◎文青里（4-45）</td>\r\n    <td>359-4000</td>\r\n  </tr>\r\n</tbody>\r\n</table>\r\n備註:\r\n<ul>\r\n<li>長庚里（27-30）為樂善、長庚國小自由學區。</li>\r\n<li>樂善里（（1、8、9、30）為樂善、文青國中小自由學區。</li>\r\n<li>文青里（4-45）為文青國中小、大埔國小自由學區。</li>\r\n</ul>\r\n"
+        },
+        {
             "id": "M001",
             "title": "桃園圖書館總館",
             "address": "桃園市桃園區南平路303號",
