@@ -1,4 +1,4 @@
-import{_ as n}from"./nuxt-link.sDBRQkVc.js";import{_ as r,o as e,c as o,b as i,w as l,a}from"./entry.Doo-Mq4R.js";const y=[{No:"文青里-001",Community:"文青里",Title:"2023年文青健康守護站",Category:"謝嘉仁",Category1:"3.社團活動與急難救濟",Category2:"3.2 強化社區服務",Subtitle:"提供民眾免費預防保健服務",Description:`<p>為關心社區民眾健康,文青里辦公處與桃園長庚紀念醫院共同設立健康守護站,持續提供民眾免費預防保健服務,歡迎踴躍參加! \r
+import{_ as n}from"./nuxt-link.rLdkBdRa.js";import{_ as r,o as e,c as o,b as i,w as l,a}from"./entry.QAYQfL7q.js";const y=[{No:"文青里-001",Community:"文青里",Title:"2023年文青健康守護站",Category:"謝嘉仁",Category1:"3.社團活動與急難救濟",Category2:"3.2 強化社區服務",Subtitle:"提供民眾免費預防保健服務",Description:`<p>為關心社區民眾健康,文青里辦公處與桃園長庚紀念醫院共同設立健康守護站,持續提供民眾免費預防保健服務,歡迎踴躍參加! \r
 <ul>\r
 <li>日期:每月第一週週六: 3/4 5/6 6/3 7/1 8/5 9/2 10/7 11/4 12/2</li>\r
 <li>時間:早上9:00至11:00</li>\r
