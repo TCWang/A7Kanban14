@@ -12,7 +12,7 @@
       <!-- Content -->
       <div class="p-2 md:p-4">
         <h3 class="text-center text-gray-800 md:text-left">
-          {{ councilor.title }} 議員
+          {{ councilor.type }}: {{ councilor.title }}
         </h3>
 
         <ul style="list-style: none">
@@ -47,6 +47,12 @@
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
               src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Ig.png"
+            />
+          </a>
+          <a v-show="councilor.youtube" :href="councilor.youtube">
+            <NuxtImg
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Youtube.png"
             />
           </a>
         </div>

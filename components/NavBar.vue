@@ -36,7 +36,7 @@
           </li>
           <li><a href="/expectations" class="text-white">居民期望</a></li>
           <li><a href="/municipal" class="text-white">公共事務</a></li>
-          <li><a href="/councilor" class="text-white">議員交流</a></li>
+          <li><a href="/councilor" class="text-white">民意代表</a></li>
           <li><a href="/community" class="text-white">里長交流</a></li>
           <li>
             <a

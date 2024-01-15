@@ -1,7 +1,9 @@
 <template>
   <div>
-    <h1>議員交流 - 龜山區議員</h1>
+    <h1>民意代表 - 龜山區議員 / 區域立委</h1>
     <CouncilorTable />
+
+    <CouncilorSelection />
   </div>
 </template>
 
