@@ -131,7 +131,7 @@
               href="/councilor"
               @click="isOpen = false"
               class="my-2 inline-block"
-              >議員交流</a
+              >民意代表</a
             >
           </li>
           <li>

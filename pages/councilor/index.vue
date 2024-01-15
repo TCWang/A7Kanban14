@@ -1,8 +1,8 @@
 <template>
   <div>
     <h1>民意代表 - 龜山區議員 / 區域立委</h1>
-    <CouncilorTable />
 
+    <CouncilorTable />
     <CouncilorSelection />
   </div>
 </template>
