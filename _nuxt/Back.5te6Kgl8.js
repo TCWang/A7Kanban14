@@ -1,0 +1,1 @@
+import{_ as o}from"./nuxt-link.1cVaC3_j.js";import{_ as e,o as n,c,b as _,w as s,a}from"./entry.pls9G-dg.js";const r={},i={class:"container mb-4 mr-8 flex justify-end"},m=a("button",{class:"btn btn-primary"},"回列表清單",-1);function d(f,p){const t=o;return n(),c("div",i,[_(t,{to:"/councilor"},{default:s(()=>[m]),_:1})])}const x=e(r,[["render",d]]);export{x as _};
