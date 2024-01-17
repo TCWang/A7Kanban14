@@ -1,1 +1,0 @@
-import{_ as s,c as o,a as t,Q as c,o as a}from"./entry.pls9G-dg.js";const n={},r={class:"container"};function l(e,_){return a(),o("div",null,[t("div",r,[c(e.$slots,"default")])])}const f=s(n,[["render",l]]);export{f as default};
