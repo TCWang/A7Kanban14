@@ -23,6 +23,13 @@
         </ul>
 
         <div class="flex flex-row mt-4 space-x-4">
+          <a :href="`/councilor/politics/${councilor.title}`">
+            <button
+              class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
+            >
+              選舉政見
+            </button>
+          </a>
           <a :href="`/councilor/${councilor.title}`">
             <button
               class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
@@ -30,7 +37,9 @@
               地區服務
             </button>
           </a>
+        </div>
 
+        <div class="flex flex-row mt-4 space-x-4">
           <a v-show="councilor.facebook" :href="councilor.facebook">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
