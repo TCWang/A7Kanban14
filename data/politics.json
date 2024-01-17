@@ -2,7 +2,7 @@
         {
             "name": "牛煦庭",
             "type": "區域立委",
-            "description": "<h3>區域立委  選舉政見</h3> <br>\r\n <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-002.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n<h3>議員 選舉政見</h3> <br>\r\n <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-004.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />"
+            "description": "<div class=\"flex flex-row flex-wrap\">\r\n<div class=\"w-full md:w-1/2\">\r\n<h3>區域立委  選舉政見</h3> <br>\r\n <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-002.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full  md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n</div>\r\n<div class=\"w-full md:w-1/2\">\r\n<h3>議員 選舉政見</h3> <br>\r\n <img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-004.png\" alt=\"\"\r\n        class=\" object-fit rounded-xl w-full  md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200\" />\r\n</div>\r\n</div>"
         },
         {
             "name": "李宗豪",
