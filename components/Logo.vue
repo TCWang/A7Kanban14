@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h3 class="font-bold text-white">A7社區網站-地方行政</h3>
+    <div class="">
+      <NuxtLink class="font-bold text-white text-lg" to="/"
+        >A7社區網站-地方行政</NuxtLink
+      >
+    </div>
   </div>
 </template>
 
