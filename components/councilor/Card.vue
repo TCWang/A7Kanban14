@@ -30,11 +30,12 @@
               選舉政見
             </button>
           </a>
-          <a :href="`/councilor/${councilor.title}`">
+          <!-- <a :href="`/councilor/${councilor.title}`"> -->
+          <a :href="`/councilor/service`">
             <button
               class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
             >
-              地區服務
+              服務匯總
             </button>
           </a>
         </div>

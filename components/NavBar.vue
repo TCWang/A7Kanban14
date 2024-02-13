@@ -34,7 +34,7 @@
               >區域建設</a
             >
           </li>
-          <li><a href="/expectations" class="text-white">居民期望</a></li>
+          <li><a href="/build" class="text-white">社區營造</a></li>
           <li><a href="/municipal" class="text-white">公共事務</a></li>
           <li><a href="/councilor" class="text-white">民意代表</a></li>
           <li><a href="/community" class="text-white">里長交流</a></li>
@@ -111,11 +111,8 @@
             >
           </li>
           <li>
-            <a
-              href="/expectations"
-              @click="isOpen = false"
-              class="my-2 inline-block"
-              >居民期望</a
+            <a href="/build" @click="isOpen = false" class="my-2 inline-block"
+              >社區營造</a
             >
           </li>
           <li>
