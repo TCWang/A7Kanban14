@@ -1,8 +1,8 @@
 <template>
   <section class="w-full max-w-6xl not-prose">
-    <h2>民意代表 A7重劃區地方服務 匯總表</h2>
+    <h2>A7重劃區 里長聯合公告欄</h2>
     <div class="column">
-      <div class="ml-6">議員</div>
+      <div class="ml-6">里別</div>
       <div class="ml-10">日期</div>
       <div class="ml-20 hidden md:block">類別</div>
       <div class="ml-28">標題</div>
@@ -22,8 +22,8 @@
             {{ post.author }}
           </div>
           <div class="pl-2">{{ post.fullDate }}</div>
-          <div class="pl-2 hidden md:block">{{ post.category2 }}</div>
-          <div class="pl-2">{{ post.title }}</div>
+          <div class="pl-4 hidden md:block">{{ post.category2 }}</div>
+          <div class="pl-4">{{ post.title }}</div>
         </NuxtLink>
       </li>
     </ul>
@@ -32,8 +32,8 @@
 
 <script setup>
 const { data } = await useAsyncData("service-list", () =>
-  queryContent("/councilor/service")
-    .where({ _path: { $ne: "/councilor/service" } })
+  queryContent("/community/announcement")
+    .where({ _path: { $ne: "/community/announcement" } })
     .only([
       "_path",
       "title",

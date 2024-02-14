@@ -1,11 +1,11 @@
 <template>
   <section class="w-full max-w-6xl not-prose">
-    <h2>民意代表 A7重劃區地方服務 匯總表</h2>
+    <h2>A7重劃區 區域建設</h2>
     <div class="column">
-      <div class="ml-6">議員</div>
-      <div class="ml-10">日期</div>
-      <div class="ml-20 hidden md:block">類別</div>
-      <div class="ml-28">標題</div>
+      <div class="ml-4">狀態</div>
+      <div class="ml-4">完工日期</div>
+      <div class="ml-12">標題</div>
+      <div class="ml-28 hidden md:block">經費</div>
     </div>
     <ul>
       <li style="list-style: none" v-for="post in posts" :key="post._path">
@@ -15,15 +15,15 @@
         >
           <div
             :class="{
-              'text-white ': !post.displayAuthor,
-              'text-gray-900': post.displayAuthor,
+              'text-white ': !post.displayStatus,
+              'text-gray-900': post.displayStatus,
             }"
           >
-            {{ post.author }}
+            {{ post.status }}
           </div>
           <div class="pl-2">{{ post.fullDate }}</div>
-          <div class="pl-2 hidden md:block">{{ post.category2 }}</div>
-          <div class="pl-2">{{ post.title }}</div>
+          <div class="pl-4">{{ post.title }}</div>
+          <div class="pl-20 hidden md:block">{{ post.budget }}</div>
         </NuxtLink>
       </li>
     </ul>
@@ -31,21 +31,21 @@
 </template>
 
 <script setup>
-const { data } = await useAsyncData("service-list", () =>
-  queryContent("/councilor/service")
-    .where({ _path: { $ne: "/councilor/service" } })
+const { data } = await useAsyncData("construction-list", () =>
+  queryContent("/construction")
+    .where({ _path: { $ne: "/construction" } })
     .only([
       "_path",
       "title",
       "publishedAt",
-      "category1",
-      "category2",
+      "category",
+      "status",
       "sequence",
+      "budget",
       "link",
-      "author",
     ])
-    .sort({ publishedAt: -1 })
-    .sort({ author: 1 })
+    .sort({ publishedAt: 1 })
+    .sort({ status: 1 })
     .find()
 );
 
@@ -55,7 +55,7 @@ const posts = computed(() => {
   }
 
   const result = [];
-  let lastAuthor = null;
+  let lastStatus = null;
 
   for (const post of data.value) {
     // const year = new Date(post.publishedAt).getFullYear();
@@ -69,17 +69,17 @@ const posts = computed(() => {
       day < 10 ? "0" : ""
     }${day}`;
 
-    const author = post.author;
+    const status = post.status;
 
-    const displayAuthor = author !== lastAuthor;
+    const displayStatus = status !== lastStatus;
 
     // console.log(`Should display a year ${displayYear}`);
 
-    post.displayAuthor = displayAuthor;
-    post.authorkeep = author;
+    post.displayStatus = displayStatus;
+    post.statuskeep = status;
     post.fullDate = fullDate;
     result.push(post);
-    lastAuthor = author;
+    lastStatus = status;
   }
 
   return result;

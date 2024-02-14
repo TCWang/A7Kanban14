@@ -24,11 +24,12 @@
         </ul>
 
         <div class="flex flex-row mt-4 space-x-4">
-          <a :href="`/community/${community.title}`">
+          <!-- <a :href="`/community/${community.title}`"> -->
+          <a :href="`/community/announcement`">
             <button
               class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
             >
-              里長公佈欄
+              里長聯合公佈欄
             </button>
           </a>
 

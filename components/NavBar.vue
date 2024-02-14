@@ -29,7 +29,7 @@
         <ul style="list-style: none" class="flex space-x-8">
           <li>
             <a
-              href="/constructions"
+              href="/construction"
               class="active border-b-2 border-blue-500 pb-1 text-white"
               >區域建設</a
             >
@@ -104,7 +104,7 @@
         <ul style="list-style: none" class="divide-y text-base">
           <li>
             <a
-              href="/constructions"
+              href="/construction"
               @click="isOpen = false"
               class="my-2 inline-block"
               >區域建設</a

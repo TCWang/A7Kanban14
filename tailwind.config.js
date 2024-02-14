@@ -6,6 +6,7 @@ module.exports = {
     "./plugins/**/*.{js,ts}",
     "./nuxt.config.{js,ts}",
   ],
+  plugins: [require("@tailwindcss/typography")],
   theme: {
     screens: {
       sm: "480px",
@@ -23,5 +24,4 @@ module.exports = {
       },
     },
   },
-  plugins: [require("@tailwindcss/typography")],
 };
