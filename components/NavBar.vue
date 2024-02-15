@@ -34,7 +34,7 @@
               >區域建設</a
             >
           </li>
-          <li><a href="/build" class="text-white">社區營造</a></li>
+          <li><a href="/city" class="text-white">政府公告</a></li>
           <li><a href="/municipal" class="text-white">公共事務</a></li>
           <li><a href="/councilor" class="text-white">民意代表</a></li>
           <li><a href="/community" class="text-white">里長交流</a></li>
@@ -111,8 +111,8 @@
             >
           </li>
           <li>
-            <a href="/build" @click="isOpen = false" class="my-2 inline-block"
-              >社區營造</a
+            <a href="/city" @click="isOpen = false" class="my-2 inline-block"
+              >政府公告</a
             >
           </li>
           <li>
