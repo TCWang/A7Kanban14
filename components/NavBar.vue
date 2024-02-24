@@ -38,6 +38,7 @@
           <li><a href="/municipal" class="text-white">公共事務</a></li>
           <li><a href="/councilor" class="text-white">民意代表</a></li>
           <li><a href="/community" class="text-white">里長交流</a></li>
+          <li><a href="/resident" class="text-white">社區營造</a></li>
           <li>
             <a
               href="/websites"
@@ -137,6 +138,14 @@
               @click="isOpen = false"
               class="my-2 inline-block"
               >里長交流</a
+            >
+          </li>
+          <li>
+            <a
+              href="/resident"
+              @click="isOpen = false"
+              class="my-2 inline-block"
+              >社區營造</a
             >
           </li>
           <li>
