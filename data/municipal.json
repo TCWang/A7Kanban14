@@ -61,6 +61,16 @@
             "type": "公共服務"
         },
         {
+            "id": "M046",
+            "title": "桃園婦幼發展局",
+            "address": "桃園市桃園區縣府路1號8樓",
+            "telephone": "03-332-2101",
+            "hours": "週一-週五 08:00 - 12:00, 13:00 - 17:00",
+            "figure": "MUN-046.jpeg",
+            "link": "https://dowcd.tycg.gov.tw/Default.aspx",
+            "type": "公共服務"
+        },
+        {
             "id": "M039",
             "title": "新北林口圖書館",
             "address": "新北市林口區忠孝二路55號4-5樓",
