@@ -5,11 +5,16 @@
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
       <a :href="`municipal/${municipal.title}`">
-        <NuxtImg
-          :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/municipal/${municipal.figure}`"
+        <img
+          :src="`/images/municipal/${municipal.figure}`"
           alt=""
           class="object-fit rounded-xl md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200 w-[120px] h-[120px]"
         />
+        <!-- <NuxtImg
+          :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/municipal/${municipal.figure}`"
+          alt=""
+          class="object-fit rounded-xl md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200 w-[120px] h-[120px]"
+        /> -->
       </a>
 
       <!-- Content -->
