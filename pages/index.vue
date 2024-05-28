@@ -4,6 +4,7 @@
 
     遠見 2024:
     <a href="https://www.gvm.com.tw/article/113001">五星縣市長揭曉</a>
+    <NuxtImg class="w-full md:w-3/4" src="/images/announcement/a0001-4.png" />
     <div class="flex flex-row flex-wrap">
       <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-2.png" />
       <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-3.png" />
