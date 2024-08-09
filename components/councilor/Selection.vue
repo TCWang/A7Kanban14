@@ -19,7 +19,7 @@
       </ul>
 
       <NuxtImg
-        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-000.png"
+        src="/images/assets/service/SER-000.png"
         style="width: 400px"
         class="img-fluid"
       />
@@ -38,7 +38,7 @@
       </ul>
 
       <NuxtImg
-        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-001.png"
+        src="/images/assets/service/SER-001.png"
         style="width: 400px"
         class="img-fluid"
       />

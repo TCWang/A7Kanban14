@@ -5,7 +5,7 @@
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
       <NuxtImg
-        :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/${community.figure}`"
+        :src="`/images/assets/${community.figure}`"
         alt=""
         class="object-fit rounded-xl h-40 md:h-48 md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200"
       />
@@ -36,19 +36,19 @@
           <a v-show="community.facebook" :href="community.facebook">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Facebook.png"
+              src="/images/assets/LOG-01-Facebook.png"
             />
           </a>
           <a v-show="community.line" :href="community.line">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Line.png"
+              src="/images/assets//LOG-01-Line.png"
             />
           </a>
           <a v-show="community.ig" :href="community.ig">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Ig.png"
+              src="/images/assets//LOG-01-Ig.png"
             />
           </a>
         </div>
