@@ -33,7 +33,7 @@
           <a v-show="municipal.link" :href="municipal.link">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+              src="/images/assets//LOG-01-web.png"
             />
           </a>
           <a
