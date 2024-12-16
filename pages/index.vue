@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="">
     <h1>A7新林口-社區網站: 14.地方行政資訊平台</h1>
     <h2>TVBS 2024/12/11</h2>
     <nl>

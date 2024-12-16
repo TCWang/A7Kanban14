@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="">
     <div>
       <h1>A7新林口-社區網站</h1>
       <h2>網站宗旨</h2>

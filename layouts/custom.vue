@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container mx-auto max-w-full p-4">
+    <div class="w-full max-w-full p-2">
       <slot />
     </div>
   </div>
