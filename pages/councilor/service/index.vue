@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full max-w-6xl not-prose">
+  <section class="w-full max-w-full not-prose">
     <h2>民意代表 A7重劃區地方服務 匯總表</h2>
     <div class="column">
       <div class="ml-6">議員</div>

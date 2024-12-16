@@ -1,6 +1,6 @@
 <template>
   <!-- Card -->
-  <div class="bg-zinc-100 p-2 m-2 rounded-2x shadow-md">
+  <div class="bg-zinc-100 p-1 m-1 rounded-2x shadow-md">
     <!-- Flex Container -->
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
@@ -10,7 +10,7 @@
         class="object-fit rounded-xl h-40 md:h-48 md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200"
       />
       <!-- Content -->
-      <div class="p-2 md:p-4">
+      <div class="p-1 md:p-2">
         <h3 class="text-center text-gray-800 md:text-left">
           {{ community.title }} 里長
         </h3>

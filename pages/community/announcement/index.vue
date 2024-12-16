@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full max-w-6xl not-prose">
+  <section class="w-full max-w-full not-prose">
     <h2>A7重劃區 里長聯合公告欄</h2>
     <div class="column">
       <div class="ml-6">里別</div>

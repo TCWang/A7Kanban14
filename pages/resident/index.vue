@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full max-w-6xl not-prose">
+  <section class="w-full max-w-full not-prose">
     <h2>社區營造 - 美好A7</h2>
 
     <div class="flex flex-col lg:flex-row flex-wrap">
