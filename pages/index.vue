@@ -33,19 +33,31 @@
 
     <div class="flex flex-row flex-wrap">
       <NuxtImg
-        class="w-full md:w-1/2"
+        class="w-full md:w-1/2 p-1"
         src="/images/announcement/a0001-11.png"
       />
     </div>
 
     <div class="flex flex-row flex-wrap">
-      <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-5.png" />
-      <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-7.png" />
+      <NuxtImg
+        class="w-full md:w-1/2 p-1"
+        src="/images/announcement/a0001-5.png"
+      />
+      <NuxtImg
+        class="w-full md:w-1/2 p-1"
+        src="/images/announcement/a0001-7.png"
+      />
     </div>
 
     <div class="flex flex-row flex-wrap">
-      <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-8.png" />
-      <NuxtImg class="w-full md:w-1/2" src="/images/announcement/a0001-6.png" />
+      <NuxtImg
+        class="w-full md:w-1/2 p-1"
+        src="/images/announcement/a0001-8.png"
+      />
+      <NuxtImg
+        class="w-full md:w-1/2 p-1"
+        src="/images/announcement/a0001-6.png"
+      />
     </div>
 
     <h2>遠見 2024/05/27:</h2>
