@@ -1,7 +1,18 @@
 <template>
   <div class="">
     <h1>A7新林口-社區網站: 14.地方行政資訊平台</h1>
-    <h2>TVBS 2024/12/11</h2>
+    <h3>中時新聞網 2024/12/23</h3>
+    <nl>
+      <li>
+        中時新聞網 2024/12/23:<a
+          href="https://www.chinatimes.com/realtimenews/20241223001576-260407?utm_source=push&utm_medium=image&chdtv"
+        >
+          71.5％肯定 張善政最新民調超驚人！3大政策滿意度破8成</a
+        >
+      </li>
+    </nl>
+
+    <h3>TVBS 2024/12/11</h3>
     <nl>
       <li>
         <a
@@ -71,6 +82,8 @@
 </template>
 
 <script setup>
+import { normalizeClass } from "vue";
+
 useHead({
   title: "A7-14.地方行政",
   meta: [
