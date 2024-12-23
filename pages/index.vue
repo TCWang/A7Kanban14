@@ -11,6 +11,12 @@
             71.5％肯定 張善政最新民調超驚人！3大政策滿意度破8成</a
           >
         </li>
+        <li>
+          ETtoday 2024/12/23:<a
+            href="https://www.ettoday.net/news/20241223/2876786.htm"
+            >ET民調／71.5%桃園市民肯定張善政表現　五大政策滿意度破8成</a
+          >
+        </li>
       </nl>
 
       <br />
@@ -59,6 +65,10 @@
     </div>
 
     <div class="flex flex-row flex-wrap">
+      <NuxtImg
+        class="w-full md:w-1/2 p-1"
+        src="/images/announcement/a0001-12.png"
+      />
       <NuxtImg
         class="w-full md:w-1/2 p-1"
         src="/images/announcement/a0001-11.png"
