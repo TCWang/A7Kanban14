@@ -1,1 +1,0 @@
-import{_ as s,c as a,a as o,aj as t,o as c}from"./entry.l_Xj-xQ3.js";const l={},r={class:"w-full max-w-full p-2"};function n(e,_){return c(),a("div",null,[o("div",r,[t(e.$slots,"default")])])}const f=s(l,[["render",n]]);export{f as default};
