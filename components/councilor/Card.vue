@@ -72,6 +72,12 @@
               src="/images/assets//LOG-01-web.png"
             />
           </a>
+          <a v-show="councilor.threads" :href="councilor.threads">
+            <NuxtImg
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="/images/assets//LOG-01-threads.png"
+            />
+          </a>
         </div>
       </div>
     </div>
