@@ -65,6 +65,13 @@
               src="/images/assets//LOG-01-Youtube.png"
             />
           </a>
+
+          <a v-show="councilor.website" :href="councilor.website">
+            <NuxtImg
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="/images/assets//LOG-01-web.png"
+            />
+          </a>
         </div>
       </div>
     </div>
