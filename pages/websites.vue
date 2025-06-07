@@ -94,6 +94,23 @@
         </li>
       </ol>
     </div>
+
+    <div class="max-w-3xl mx-auto p-4">
+      <h1 class="text-2xl font-bold mb-4">社區網站 意見調查</h1>
+      <div class="aspect-w-16 aspect-h-9">
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeNer5eSiGtbKjItmas1IjFT1puWRh-wHRTAzJnlk4o-uzcoQ/viewform?embedded=true"
+          width="100%"
+          height="1200px"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          class="w-full border rounded"
+        >
+          Loading…
+        </iframe>
+      </div>
+    </div>
   </div>
 </template>
 
