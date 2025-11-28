@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "deploy": "gh-pages -d dist",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare && node scripts/fix-node24-deprecations.mjs"
   },
   "devDependencies": {
     "@nuxt/image": "^1.3.0",
